@@ -3,6 +3,7 @@ A small program written in perl to convert PayPal CSV files to QIF format. Known
 
 # Dependencies
 Perl for commandline
+
 TEXT::CSV installed
 
 

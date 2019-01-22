@@ -17,7 +17,7 @@ Now you can create your report, once completed download the CSV into the **same 
 
 You will need to open your terminal and change the terminals working directory to the current location of csv2qif.pl
 
-**cd path/to/convert.pl
+**cd path/to/csv2qif.pl
 
 **chmod +x csv2qif.pl
 
